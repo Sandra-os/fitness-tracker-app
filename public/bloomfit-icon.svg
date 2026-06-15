@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>BloomFit app icon</title>
+  <rect width="512" height="512" rx="96" fill="#f7fbff" />
+  <path d="M104 280c52-18 84-50 102-104 18 54 50 86 104 104-54 18-86 50-104 104-18-54-50-86-102-104Z" fill="#3f7fc4" />
+  <path d="M260 178c38-13 62-37 75-75 13 38 37 62 75 75-38 13-62 37-75 75-13-38-37-62-75-75Z" fill="#e98aaa" />
+  <path d="M151 168h46v28h-46v46h-28v-46H77v-28h46v-46h28v46Z" fill="#285783" />
+  <path d="M349 322h44v24h-44v44h-24v-44h-44v-24h44v-44h24v44Z" fill="#62ad92" />
+</svg>
