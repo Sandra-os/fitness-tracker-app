@@ -1,6 +1,6 @@
 # BloomFit Fitness Tracker
 
-BloomFit is a polished React fitness tracking app for logging workouts, browsing gym exercises, reviewing workout history, and visualizing progress over time. It is designed as a portfolio-ready frontend project with clear navigation, a soft modern visual style, and responsive layouts for desktop, tablet, and mobile screens.
+BloomFit is a React fitness tracker for logging workouts, browsing exercises, reviewing workout history, and visualizing progress. It stores workout and demo-profile data in the browser and supports desktop, tablet, and mobile layouts.
 
 ## Live Demo
 
